@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  :small_blue_diamond:<a href="https://discord.gg/jGqDQpeYxZ">Join Discord</a>
+  :small_blue_diamond:<a href="https://discord.com/invite/Q3f9chQBzs">Join Discord</a>
 </p>
